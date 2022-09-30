@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: enigmaUI.Main
+Class-Path: engine.jar
+
